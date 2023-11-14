@@ -6,7 +6,9 @@ We have developed a toolkit to call variant loci on the Windows system, **[WinSN
 The installation and use of this toolkit is described below.
 
 ## 🔍 Demo data
+WinSNPGT-mkRef requires **genome** and **SNP loci files (bim file format)** as input. 
 
+The example-data files are not included in the release package, you can download from [example-data](https://figshare.com/articles/dataset/_b_Genome_file_for_SNPGT_make_Ref_b_/24557083)
 
 
 ## 🌟 Installation
@@ -42,7 +44,7 @@ The installation and use of this toolkit is described below.
 - Enter the type of population (Inbred or Hybrid)
 ![](https://img-blog.csdnimg.cn/b4fd852232f1439cba5d4e3d5cf320c1.png)
 - After running, open **WinSNPGT** again
-- [Step 4](https://github.com/Min-Zer0/WinSNPGT/blob/main/README.md) New data options will appear in Species and Dataset
+- [Step 4](https://github.com/Min-Zer0/WinSNPGT/blob/main/README.md#step-4-select-species-and-dataset) New data options will appear in Species and Dataset
 
 
 ## 👥 Contacts
