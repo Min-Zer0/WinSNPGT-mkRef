@@ -10,6 +10,6 @@ Program: SNPGT-build (Tools for make RefGenome)
 
 Usage:
  1. Put the whole genome reference sequence and SNP site information(bim file) 
-    of the species into 00.Make_Reference_Genome/
+    of the species into Make_Reference_Genome/
     
  2. Enter species name and Strain information
