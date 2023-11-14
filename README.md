@@ -1,8 +1,5 @@
 # WinSNPGT-mkRef
 
-https://github.com/Min-Zer0/WinSNPGT-mkRef/raw/main/Make_RefGenome.zip
-# WinSNPGT-mkRef
-
 ## 💡 总体介绍
 - 我们开发了一个在Windows系统上调用变种位点的工具包 **[WinSNPGT](https://github.com/Min-Zer0/WinSNPGT)**，对于那些Linux操作经验很少的人来说非常友好。它可以获得我们数据集中指定的 SNP 位点的原始测序数据的基因型。 WinSNPGT-mkRef为WinSNPGT的扩展功能插件，提供用户自定义构建参考基因组。
 - 以下是该工具包的安装和使用说明。
