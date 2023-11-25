@@ -48,7 +48,7 @@ The example-data files are not included in the release package, you can download
 
 ## 🌟 VCF2Geno
 - We have developed a GenoType file that quickly converts VCF to standard format on Windows systems.
-- [VCF2Geno.exe](https://github.com/Min-Zer0/WinSNPGT-mkRef/blob/main/VCF2Geno.exe)
+- [VCF2Geno.exe](https://github.com/Min-Zer0/WinSNPGT-mkRef/raw/main/VCF2Geno.exe)
   
 ## 👥 Contacts
 > - Jie Qiu (qiujie@shnu.edu.cn)  
