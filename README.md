@@ -46,7 +46,10 @@ The example-data files are not included in the release package, you can download
 - After running, open **WinSNPGT** again
 - [Step 4](https://github.com/Min-Zer0/WinSNPGT/blob/main/README.md#step-4-select-species-and-dataset) New data options will appear in Species and Dataset
 
-
+## 🌟 VCF2Geno
+- We have developed a GenoType file that quickly converts VCF to standard format on Windows systems.
+- [VCF2Geno.exe](https://github.com/Min-Zer0/WinSNPGT-mkRef/blob/main/VCF2Geno.exe)
+  
 ## 👥 Contacts
 > - Jie Qiu (qiujie@shnu.edu.cn)  
 > - Min Zhu (zer0min@outlook.com)  
